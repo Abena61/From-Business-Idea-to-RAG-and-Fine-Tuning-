@@ -5,6 +5,11 @@
 ###  Description  
 FashionEasy is a database system designed to manage users, products, orders, vendors, and styling suggestions. It facilitates efficient tracking of fashion-related data, including user preferences, product inventory, order details, and vendor relationships.
 
+FashionEasy is a database-driven AI system that I developed to manage and analyze fashion-related data. The project consists of SQLite with an ERD, a RAG system for AI-powered recommendations, and a fine-tuned LLM to generate personalized fashion insights.
+
+I built multiple Jupyter Notebooks for database schema design, synthetic data generation, and AI-driven querying. The system integrates RAG to efficiently retrieve fashion insights from structured data and an LLM fine-tuned on domain-specific knowledge to enhance recommendation accuracy. Additionally, privacy-focused retrieval mechanisms ensure secure handling of user data. The project demonstrates expertise in LLM fine-tuning, AI-driven personalization, and intelligent data management.
+
+The database is fully operational, and future development includes integrating a web-based interface for real-time AI-powered recommendations and enhancing the LLM’s contextual understanding for more precise fashion suggestions
 ---
 
 ##  Project Files and Purpose  
